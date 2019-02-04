@@ -1,6 +1,6 @@
 $(document).ready(function(){
 	$('.gallery').gallery({
-	//	autoRotation: 10000,
+		autoRotation: 10000,
 		duration: 1000,
         oneSlide: true,
 		disableBtn: 'disabled'
